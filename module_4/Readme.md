@@ -6,7 +6,7 @@ Find out which of the most profitable flights from Anapa the company can refuse 
 ## Techniology Stack
 This project was build using ***SQL, Pandas, Numpy, Matplotlib.***
 ## Content
-***project_4.txt*** - a text file with SQL-йueries for answers to the questions and the final query for collecting information into a dataset.    
+***project_4.txt*** - a text file with SQL-queries for answers to the questions and the final query for collecting information into a dataset.    
 ***project_4.csv*** - received dataset    
 ***project_4.ipynb*** - data analysis notebook
 ## About the data
