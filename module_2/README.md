@@ -5,9 +5,9 @@
 ## Techniology Stack
 This project was build using Pandas, Numpy, Matplotlib.
 ## About the data
-The data is represented by a dataset as a file in the csv format
-Total records in the dataset: 395
-Total Columns: 30
+The data is represented by a dataset as a file in the csv format.    
+Total records in the dataset: 395    
+Total Columns: 30    
 The dataset contains the following data:
   - empty values
   - typos or incorrect values (outliers)
